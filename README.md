@@ -1,5 +1,10 @@
 ### Hi there 👋
-Introduction comming soon...
+![Fabrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=niomwungeri-fabrice&hide=contribs&show_icons=true&theme=radical)
+
+NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niomwungeri-fabrice&show_icons=true&layout=compact&theme=radical&langs_count=8)
+
 <!--
 **niomwungeri-fabrice/niomwungeri-fabrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
